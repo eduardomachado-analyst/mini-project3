@@ -1,0 +1,903 @@
+2020-09-18 22:30:02.180 WARNING client - __init__: Could not connect to the database on client.py file.
+2020-09-18 22:30:02.180 WARNING client - __init__: Verify your credentials for {params.user}.
+2020-09-18 22:30:02.181 WARNING client - __init__: No module named 'psycopg2'
+2020-09-18 22:39:08.736 WARNING client - __init__: Could not connect to the database on client.py file.
+2020-09-18 22:39:08.737 WARNING client - __init__: Verify your credentials for {params.user}.
+2020-09-18 22:39:08.737 WARNING client - __init__: No module named 'psycopg2'
+2020-09-18 22:39:08.737 INFO data_gathering - update: Gathering data from https://en.wikipedia.org/wiki/List_of_Rede_Globo_telenovelas#2000s
+2020-09-18 22:39:58.874 WARNING client - __init__: Could not connect to the database on client.py file.
+2020-09-18 22:39:58.879 WARNING client - __init__: Verify your credentials for {params.user}.
+2020-09-18 22:39:58.879 WARNING client - __init__: No module named 'psycopg2'
+2020-09-18 22:39:58.879 INFO data_gathering - update: Gathering data from https://en.wikipedia.org/wiki/List_of_Rede_Globo_telenovelas#2000s
+2020-09-18 22:39:59.612 INFO data_gathering - update: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv
+2020-09-18 22:47:22.720 WARNING client - __init__: Could not connect to the database on client.py file.
+2020-09-18 22:47:22.720 WARNING client - __init__: Verify your credentials for {params.user}.
+2020-09-18 22:47:22.720 WARNING client - __init__: No module named 'psycopg2'
+2020-09-18 22:47:22.720 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\cast_features.csv found.
+2020-09-18 22:47:22.720 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\casting.csv found.
+2020-09-18 22:47:22.720 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\novelas.csv found.
+2020-09-18 22:50:41.570 WARNING client - __init__: Could not connect to the database on client.py file.
+2020-09-18 22:50:41.570 WARNING client - __init__: Verify your credentials for {params.user}.
+2020-09-18 22:50:41.570 WARNING client - __init__: No module named 'psycopg2'
+2020-09-18 22:50:41.570 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\cast_features.csv found.
+2020-09-18 22:50:41.570 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\casting.csv found.
+2020-09-18 22:50:41.570 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\novelas.csv found.
+2020-09-18 22:50:46.665 WARNING client - __init__: Could not connect to the database on client.py file.
+2020-09-18 22:50:46.674 WARNING client - __init__: Verify your credentials for {params.user}.
+2020-09-18 22:50:46.674 WARNING client - __init__: No module named 'psycopg2'
+2020-09-18 22:50:46.674 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\cast_features.csv found.
+2020-09-18 22:50:46.674 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\casting.csv found.
+2020-09-18 22:50:46.674 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\novelas.csv found.
+2020-09-18 22:54:09.595 WARNING client - __init__: Could not connect to the database on client.py file.
+2020-09-18 22:56:53.994 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-18 22:56:53.994 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\cast_features.csv found.
+2020-09-18 22:56:53.994 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\casting.csv found.
+2020-09-18 22:56:53.994 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\external\novelas.csv found.
+2020-09-18 22:56:54.051 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-18 22:56:54.064 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-18 22:56:54.066 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-18 23:43:01.616 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-18 23:43:01.616 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-18 23:43:01.617 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-18 23:43:01.617 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-18 23:44:52.186 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-18 23:44:52.186 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-18 23:44:52.186 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-18 23:44:52.186 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-18 23:46:14.197 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-18 23:46:14.197 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-18 23:46:14.197 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-18 23:46:14.197 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-18 23:47:00.322 INFO data_transform - feat_novelas: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv
+2020-09-18 23:55:22.487 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-18 23:55:22.487 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-18 23:55:22.487 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-18 23:55:22.487 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-18 23:56:05.877 INFO data_transform - feat_novelas: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv
+2020-09-18 23:56:05.927 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-18 23:56:05.937 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-18 23:56:05.937 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 14:01:00.380 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:01:00.380 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:01:00.380 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:01:00.381 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:01:00.381 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:01:00.381 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:01:00.434 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 14:01:00.472 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 14:01:00.477 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 14:01:42.173 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:01:42.174 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:01:42.174 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:01:42.174 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:01:42.174 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:01:42.175 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:01:42.222 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 14:01:42.259 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 14:01:42.265 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 14:02:27.575 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:02:27.575 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:02:27.576 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:02:27.576 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:02:27.576 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:02:27.576 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:02:27.627 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 14:02:27.668 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 14:02:27.673 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 14:06:44.898 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:06:44.898 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:06:44.898 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:06:44.899 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:06:44.899 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:06:44.899 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:06:44.944 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 14:06:44.985 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 14:06:44.989 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 14:07:59.777 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:07:59.778 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:07:59.778 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:07:59.778 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:07:59.779 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:07:59.779 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:09:35.118 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:09:35.119 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:09:35.119 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:09:35.119 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:09:35.120 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:09:35.121 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:10:09.376 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:10:09.376 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:10:09.376 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:10:09.376 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:10:09.377 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:10:09.377 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:10:57.019 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:10:57.019 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:10:57.019 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:10:57.019 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:10:57.020 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:10:57.020 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:15:37.319 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:15:37.320 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:15:37.320 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:15:37.320 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:15:37.320 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:15:37.321 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:17:30.322 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:17:30.323 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:17:30.323 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:17:30.323 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:17:30.323 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:17:30.323 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:18:56.853 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:18:56.854 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:18:56.854 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:18:56.854 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:18:56.855 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:18:56.855 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:19:28.386 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:19:28.387 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:19:28.387 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:19:28.387 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:19:28.387 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:19:28.388 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:41:34.037 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:41:34.037 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:41:34.038 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:41:34.038 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:41:34.039 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:41:34.039 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:42:00.785 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:42:00.785 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:42:00.786 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:42:00.786 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:42:00.786 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:42:00.786 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:44:43.357 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:44:43.357 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:44:43.357 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:44:43.358 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:44:43.358 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:44:43.358 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:45:08.509 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:45:08.509 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:45:08.509 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:45:08.510 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:45:08.510 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:45:08.510 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:45:25.570 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:45:25.570 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:45:25.571 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:45:25.571 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:45:25.571 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:45:25.571 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:46:09.926 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:46:09.926 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:46:09.927 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:46:09.927 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:46:09.928 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:46:09.928 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:50:47.264 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:50:47.264 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:50:47.265 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:50:47.265 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:50:47.265 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:50:47.265 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 14:56:08.695 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 14:56:08.695 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 14:56:08.696 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 14:56:08.696 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 14:56:08.696 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 14:56:08.697 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:06:07.342 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:06:07.342 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:06:07.342 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:06:07.342 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:06:07.342 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:06:07.342 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:06:29.708 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:06:29.708 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:06:29.709 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:06:29.709 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:06:29.709 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:06:29.709 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:07:15.463 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:07:15.464 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:07:15.464 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:07:15.464 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:07:15.464 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:07:15.465 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:07:22.767 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Geral.csv
+2020-09-19 15:07:38.769 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:07:38.769 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:07:38.770 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:07:38.770 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:07:38.771 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:07:38.771 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:07:40.113 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Geral.csv
+2020-09-19 15:08:31.458 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:08:31.459 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:08:31.459 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:08:31.459 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:08:31.460 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:08:31.460 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:08:42.173 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Geral.csv
+2020-09-19 15:09:39.719 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:09:39.719 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:09:39.719 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:09:39.719 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:09:39.719 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:09:39.719 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:09:43.171 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Geral.csv
+2020-09-19 15:10:46.955 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:10:46.955 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:10:46.955 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:10:46.956 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:10:46.956 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:10:46.956 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:11:00.016 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:11:00.017 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:11:00.018 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:11:00.018 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:11:00.019 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:11:00.019 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:11:17.630 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:11:17.631 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:11:17.631 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:11:17.631 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:11:17.632 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:11:17.632 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:11:19.363 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Geral.csv
+2020-09-19 15:12:17.100 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:12:17.100 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:12:17.101 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:12:17.101 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:12:17.101 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:12:17.101 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:12:21.771 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\População.csv
+2020-09-19 15:13:45.731 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:13:45.732 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:13:45.732 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:13:45.732 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:13:45.732 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:13:45.733 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:13:47.387 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Geral.csv
+2020-09-19 15:14:14.132 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:14:14.132 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:14:14.133 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:14:14.133 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:14:14.133 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:14:14.133 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:14:16.409 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Geral.csv
+2020-09-19 15:14:32.533 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:14:32.533 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:14:32.533 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:14:32.534 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:14:32.534 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:14:32.534 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:14:33.913 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Geral.csv
+2020-09-19 15:15:42.356 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:15:42.356 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:15:42.356 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:15:42.357 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:15:42.357 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:15:42.357 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:15:44.695 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Geral.csv
+2020-09-19 15:15:59.050 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Trabalho.csv
+2020-09-19 15:32:49.074 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:32:49.075 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:32:49.075 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:32:49.075 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:32:49.075 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:32:49.075 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:32:49.132 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 15:32:49.152 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 15:32:49.157 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 15:33:38.782 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:33:38.782 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:33:38.783 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:33:38.783 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:33:38.783 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:33:38.783 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:33:38.828 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 15:33:38.843 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 15:33:38.847 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 15:33:52.669 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:33:52.669 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:33:52.669 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:33:52.670 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:33:52.670 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:33:52.670 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:33:52.674 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Geral.csv
+2020-09-19 15:33:52.678 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Trabalho.csv
+2020-09-19 15:33:52.680 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Renda e Moradia.csv
+2020-09-19 15:33:52.682 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Educação.csv
+2020-09-19 15:33:52.685 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\Violência.csv
+2020-09-19 15:33:52.732 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 15:33:52.746 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 15:33:52.752 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 15:35:08.476 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:35:08.477 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:35:08.477 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:35:08.477 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:35:08.477 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:35:08.477 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:37:46.409 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:37:46.410 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:37:46.410 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:37:46.410 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:37:46.411 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:37:46.411 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:37:58.990 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:37:58.991 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:37:58.991 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:37:58.991 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:37:58.991 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:37:58.992 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:45:16.229 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:45:16.230 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:45:16.230 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:45:16.230 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:45:16.231 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:45:16.231 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:45:47.961 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:45:47.962 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:45:47.962 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:45:47.962 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:45:47.963 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:45:47.963 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:45:47.978 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\population.csv
+2020-09-19 15:54:28.931 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:54:28.931 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:54:28.931 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:54:28.932 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:54:28.932 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:54:28.932 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:54:28.948 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\population.csv
+2020-09-19 15:54:38.590 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\illiteracy.csv
+2020-09-19 15:55:16.953 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 15:55:16.954 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 15:55:16.954 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 15:55:16.954 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 15:55:16.954 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 15:55:16.955 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 15:55:16.972 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\population.csv
+2020-09-19 15:55:21.456 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\illiteracy.csv
+2020-09-19 15:55:55.927 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\higher_education.csv
+2020-09-19 16:00:14.331 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\illiteracy.csv
+2020-09-19 16:01:00.891 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:01:00.891 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:01:00.892 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:01:00.892 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:01:00.892 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:01:00.892 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:01:00.907 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\population.csv
+2020-09-19 16:01:05.837 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\illiteracy.csv
+2020-09-19 16:01:06.529 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\higher_education.csv
+2020-09-19 16:01:09.806 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\unemployment.csv
+2020-09-19 16:01:54.507 INFO data_transform - clean_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv
+2020-09-19 16:05:28.872 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:05:28.873 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:05:28.873 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:05:28.873 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:05:28.873 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:05:28.873 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:05:28.873 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:05:28.925 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 16:05:28.954 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 16:05:28.957 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 16:05:40.633 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:05:40.633 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:05:40.633 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:05:40.634 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:05:40.634 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:05:40.634 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:05:40.634 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:05:40.692 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 16:05:40.706 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 16:05:40.710 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 16:09:41.953 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:09:41.953 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:09:41.953 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:09:41.953 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:09:41.953 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:09:41.953 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:09:41.954 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:10:23.487 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:10:23.487 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:10:23.488 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:10:23.488 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:10:23.488 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:10:23.488 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:10:23.489 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:10:41.346 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:10:41.347 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:10:41.347 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:10:41.347 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:10:41.347 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:10:41.347 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:10:41.347 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:10:41.392 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 16:10:41.418 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 16:10:41.422 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 16:10:58.108 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:10:58.109 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:10:58.109 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:10:58.109 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:10:58.109 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:10:58.109 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:10:58.109 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:10:58.167 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 16:10:58.185 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 16:10:58.189 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 16:13:27.171 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:13:27.171 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:13:27.171 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:13:27.172 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:13:27.172 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:13:27.172 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:13:27.172 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:13:27.216 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 16:13:27.238 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 16:13:27.243 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 16:14:34.079 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:14:34.080 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:14:34.080 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:14:34.080 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:14:34.080 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:14:34.080 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:14:34.080 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:14:34.140 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 16:14:34.156 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 16:14:34.159 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 16:16:42.550 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:16:42.551 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:16:42.551 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:16:42.551 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:16:42.551 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:16:42.551 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:16:42.551 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:16:42.594 INFO data_storage - done: Table cast_features found in the database and it is populated. Skipping upload...
+2020-09-19 16:16:42.608 INFO data_storage - done: Table casting found in the database and it is populated. Skipping upload...
+2020-09-19 16:16:42.611 INFO data_storage - done: Table novelas found in the database and it is populated. Skipping upload...
+2020-09-19 16:17:13.099 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:17:13.099 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:17:13.100 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:17:13.100 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:17:13.100 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:17:13.100 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:17:13.100 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:18:04.683 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:18:04.684 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:18:04.684 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:18:04.684 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:18:04.685 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:18:04.685 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:18:04.685 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:19:46.777 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:19:46.777 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:19:46.777 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:19:46.778 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:19:46.778 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:19:46.778 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:19:46.778 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:21:58.982 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 16:21:58.982 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 16:21:58.983 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 16:21:58.983 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 16:21:58.983 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 16:21:58.983 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 16:21:58.984 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 16:22:14.260 INFO data_storage - done: Table ibge_2018 found in the database and it is populated. Skipping upload...
+2020-09-19 17:14:54.874 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:14:54.875 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:14:54.875 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:14:54.875 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:14:54.875 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:14:54.875 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:14:54.876 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:15:09.813 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:15:09.813 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:15:09.814 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:15:09.814 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:15:09.814 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:15:09.814 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:15:09.814 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:16:10.650 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:16:10.650 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:16:10.650 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:16:10.650 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:16:10.651 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:16:10.651 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:16:10.651 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:20:17.521 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:20:17.521 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:20:17.521 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:20:17.522 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:20:17.522 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:20:17.522 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:20:17.522 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:22:16.747 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:22:16.747 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:22:16.747 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:22:16.748 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:22:16.748 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:22:16.748 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:22:16.748 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:22:30.877 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:22:30.878 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:22:30.878 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:22:30.878 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:22:30.878 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:22:30.879 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:22:30.879 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:24:34.195 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:24:34.196 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:24:34.196 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:24:34.196 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:24:34.196 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:24:34.196 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:24:34.197 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:25:05.821 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:25:05.821 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:25:05.822 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:25:05.822 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:25:05.822 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:25:05.822 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:25:05.823 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:25:25.614 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:25:25.614 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:25:25.615 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:25:25.615 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:25:25.615 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:25:25.616 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:25:25.616 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:25:55.432 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:25:55.433 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:25:55.433 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:25:55.433 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:25:55.433 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:25:55.434 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:25:55.434 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:26:18.790 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:26:18.790 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:26:18.791 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:26:18.791 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:26:18.792 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:26:18.792 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:26:18.792 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:26:38.770 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:26:38.770 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:26:38.770 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:26:38.771 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:26:38.771 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:26:38.771 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:26:38.771 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:27:12.446 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:27:12.446 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:27:12.446 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:27:12.447 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:27:12.447 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:27:12.447 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:27:12.448 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:28:08.036 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:28:08.036 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:28:08.037 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:28:08.037 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:28:08.037 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:28:08.037 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:28:08.037 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:28:44.228 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:28:44.229 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:28:44.229 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:28:44.229 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:28:44.229 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:28:44.230 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:28:44.230 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:29:22.666 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:29:22.667 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:29:22.667 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:29:22.667 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:29:22.668 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:29:22.668 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:29:22.668 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:29:35.731 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:29:35.731 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:29:35.732 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:29:35.732 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:29:35.732 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:29:35.732 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:29:35.732 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:30:04.086 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:30:04.087 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:30:04.087 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:30:04.088 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:30:04.088 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:30:04.088 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:30:04.089 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:30:34.762 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:30:34.762 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:30:34.763 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:30:34.763 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:30:34.763 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:30:34.763 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:30:34.763 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:31:47.944 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:31:47.945 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:31:47.945 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:31:47.945 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:31:47.945 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:31:47.946 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:31:47.946 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:32:17.626 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:32:17.627 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:32:17.627 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:32:17.627 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:32:17.628 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:32:17.628 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:32:17.628 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:32:43.299 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:32:43.299 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:32:43.299 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:32:43.300 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:32:43.300 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:32:43.300 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:32:43.300 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:33:11.567 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:33:11.567 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:33:11.567 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:33:11.568 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:33:11.568 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:33:11.568 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:33:11.568 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:33:56.355 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:33:56.356 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:33:56.356 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:33:56.356 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:33:56.357 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:33:56.357 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:33:56.357 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:34:13.577 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:34:13.578 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:34:13.578 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:34:13.578 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:34:13.579 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:34:13.579 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:34:13.579 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:35:29.839 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:35:29.839 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:35:29.839 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:35:29.840 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:35:29.840 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:35:29.840 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:35:29.840 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:36:35.924 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:36:35.925 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:36:35.925 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:36:35.925 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:36:35.925 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:36:35.926 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:36:35.926 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:37:29.888 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:37:29.888 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:37:29.889 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:37:29.889 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:37:29.889 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:37:29.889 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:37:29.890 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:37:38.922 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:37:38.922 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:37:38.923 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:37:38.923 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:37:38.923 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:37:38.923 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:37:38.924 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:37:58.498 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:37:58.498 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:37:58.499 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:37:58.499 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:37:58.499 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:37:58.499 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:37:58.499 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:38:27.144 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:38:27.145 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:38:27.145 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:38:27.145 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:38:27.146 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:38:27.146 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:38:27.146 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:40:03.055 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:40:03.055 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:40:03.056 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:40:03.056 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:40:03.056 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:40:03.056 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:40:03.057 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:40:18.810 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:40:18.811 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:40:18.811 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:40:18.811 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:40:18.811 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:40:18.812 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:40:18.812 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:40:52.958 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:40:52.958 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:40:52.959 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:40:52.959 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:40:52.959 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:40:52.959 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:40:52.959 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:41:27.940 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:41:27.941 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:41:27.941 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:41:27.941 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:41:27.942 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:41:27.942 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:41:27.942 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:42:10.848 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:42:10.848 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:42:10.848 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:42:10.849 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:42:10.849 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:42:10.849 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:42:10.849 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:42:31.203 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:42:31.204 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:42:31.204 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:42:31.204 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:42:31.205 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:42:31.205 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:42:31.205 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:42:51.983 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:42:51.983 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:42:51.983 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:42:51.984 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:42:51.984 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:42:51.984 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:42:51.984 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:43:45.108 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:43:45.109 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:43:45.109 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:43:45.109 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:43:45.110 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:43:45.110 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:43:45.110 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:45:59.702 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:45:59.703 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:45:59.703 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:45:59.703 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:45:59.704 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:45:59.704 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:45:59.704 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:46:42.904 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:46:42.905 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:46:42.905 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:46:42.905 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:46:42.906 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:46:42.906 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:46:42.906 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:49:49.548 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:49:49.548 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:49:49.548 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:49:49.549 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:49:49.549 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:49:49.549 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:49:49.549 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:50:15.216 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:50:15.217 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:50:15.217 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:50:15.217 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:50:15.218 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:50:15.218 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:50:15.218 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:50:50.224 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:50:50.225 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:50:50.225 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:50:50.225 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:50:50.226 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:50:50.226 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:50:50.226 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:51:25.604 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:51:25.604 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:51:25.604 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:51:25.605 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:51:25.605 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:51:25.605 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:51:25.606 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:53:01.140 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:53:01.141 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:53:01.141 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:53:01.141 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:53:01.142 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:53:01.142 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:53:01.142 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:53:19.449 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:53:19.450 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:53:19.450 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:53:19.450 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:53:19.450 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:53:19.450 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:53:19.451 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:55:58.302 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:55:58.302 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:55:58.303 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:55:58.303 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:55:58.303 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:55:58.303 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:55:58.303 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:56:42.471 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:56:42.472 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:56:42.472 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:56:42.472 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:56:42.472 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:56:42.473 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:56:42.473 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:56:57.410 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:56:57.411 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:56:57.411 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:56:57.411 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:56:57.412 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:56:57.412 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:56:57.412 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:57:39.796 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:57:39.797 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:57:39.797 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:57:39.797 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:57:39.798 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:57:39.798 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:57:39.798 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 17:58:02.128 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 17:58:02.128 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 17:58:02.129 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 17:58:02.129 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 17:58:02.129 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 17:58:02.129 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 17:58:02.130 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 18:01:37.305 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 18:01:37.305 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 18:01:37.305 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 18:01:37.306 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 18:01:37.306 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 18:01:37.306 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 18:01:37.306 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 18:02:14.251 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 18:02:14.252 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 18:02:14.252 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 18:02:14.252 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 18:02:14.252 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\color_novela.csv found.
+2020-09-19 18:02:14.253 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\race_novela.csv found.
+2020-09-19 18:02:14.253 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\income.csv found.
+2020-09-19 18:09:05.969 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 18:09:05.970 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 18:09:05.970 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 18:09:05.970 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 18:09:46.401 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 18:09:46.402 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 18:09:46.402 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 18:09:46.402 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 18:09:46.429 INFO data_transform - join_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\ibge_2018.csv
+2020-09-19 18:12:42.391 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 18:12:42.391 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 18:12:42.391 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 18:12:42.392 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 18:12:42.422 INFO data_transform - join_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\ibge_2018.csv
+2020-09-19 18:13:01.428 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 18:13:01.429 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 18:13:01.429 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 18:13:01.429 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 18:13:01.488 INFO data_transform - join_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\ibge_2018.csv
+2020-09-19 18:13:41.290 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 18:13:41.290 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 18:13:41.291 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 18:13:41.291 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 18:13:41.313 INFO data_transform - join_ibge_data: Storing results at C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\ibge_2018.csv
+2020-09-19 18:14:38.283 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 18:14:38.283 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 18:14:38.283 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 18:14:38.283 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 18:15:36.617 INFO client - __init__: Connected to PostgreSQL@mini-project3
+2020-09-19 18:15:36.617 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\cast_features.csv found.
+2020-09-19 18:15:36.618 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\casting.csv found.
+2020-09-19 18:15:36.618 INFO data_gathering - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\intermediate\novelas.csv found.
+2020-09-19 18:15:36.618 INFO data_transform - done: C:\Users\dudum\Desktop\Iron Hack\Projects\week_5\Mini-project3\data\processed\ibge_2018.csv found.
+2020-09-19 18:15:36.662 INFO data_storage - done: Table ibge_2018 found in the database and it is populated. Skipping upload...
