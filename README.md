@@ -152,5 +152,3 @@ pip install Unidecode</pre></div>
 <a href="https://www.google.com/" rel="nofollow">Google</a></p>
 </article>
   </div>
-
-    </div>
