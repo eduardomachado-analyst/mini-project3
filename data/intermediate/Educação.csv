@@ -1,0 +1,97 @@
+Nível,Indicador,2018,Unidade
+4,Educação,,
+4.1,Taxa de analfabetismo,,
+4.1.1,Pessoas de 15 anos ou mais de idade,,
+4.1.1.1,Total,6.8,%
+4.1.1.2,Brancos,3.9,%
+4.1.1.3,Pretos ou pardos,9.1,%
+4.2,Nível de ensino,,
+4.2.1,Pessoas de 25 anos ou mais de idade,,
+4.2.1.1,Sem instrução,,
+4.2.1.1.1,Total,6.9,%
+4.2.1.1.2,Brancos,4.3,%
+4.2.1.1.3,Pretos ou pardos,9.1,%
+4.2.1.2,Fundamental incompleto,,
+4.2.1.2.1,Total,33.1,%
+4.2.1.2.2,Brancos,28.4,%
+4.2.1.2.3,Pretos ou pardos,37.2,%
+4.2.1.3,Fundamental completo,,
+4.2.1.3.1,Total,8.1,%
+4.2.1.3.2,Brancos,8.0,%
+4.2.1.3.3,Pretos ou pardos,8.2,%
+4.2.1.4,Médio incompleto,,
+4.2.1.4.1,Total,4.5,%
+4.2.1.4.2,Brancos,3.7,%
+4.2.1.4.3,Pretos ou pardos,5.2,%
+4.2.1.5,Médio completo,,
+4.2.1.5.1,Total,26.9,%
+4.2.1.5.2,Brancos,27.0,%
+4.2.1.5.3,Pretos ou pardos,26.9,%
+4.2.1.6,Superior incompleto,,
+4.2.1.6.1,Total,4.0,%
+4.2.1.6.2,Brancos,4.7,%
+4.2.1.6.3,Pretos ou pardos,3.3,%
+4.2.1.7,Superior completo,,
+4.2.1.7.1,Total,16.5,%
+4.2.1.7.2,Brancos,24.0,%
+4.2.1.7.3,Pretos ou pardos,10.1,%
+4.3,Pessoas de 18 a 24 anos de idade,,
+4.3.1,Com menos de 11 anos de estudo e que não frequentam instituição de ensino,,
+4.3.1.1,Total,24.4,%
+4.3.1.2,Brancos,17.4,%
+4.3.1.3,Pretos ou pardos,28.8,%
+4.4,Taxa de frequência líquida ajustada,,
+4.4.1,População residente de 6 a 24 anos de idade,,
+4.4.1.1,Grupos de idade e nível de ensino,,
+4.4.1.1.1,"6 a 14 anos, no ensino fundamental",,
+4.4.1.1.1.1,Total,97.4,%
+4.4.1.1.1.2,Brancos,97.7,%
+4.4.1.1.1.3,Pretos ou pardos,97.2,%
+4.4.1.1.2,"6 a 10 anos, nos anos iniciais do ensino fundamental",,
+4.4.1.1.2.1,Total,96.1,%
+4.4.1.1.2.2,Brancos,96.5,%
+4.4.1.1.2.3,Pretos ou pardos,95.8,%
+4.4.1.1.3,"11 a 14 anos, nos anos finais do ensino fundamental",,
+4.4.1.1.3.1,Total,86.7,%
+4.4.1.1.3.2,Brancos,90.4,%
+4.4.1.1.3.3,Pretos ou pardos,84.5,%
+4.4.1.1.4,"15 a 17 anos, no ensino médio",,
+4.4.1.1.4.1,Total,69.3,%
+4.4.1.1.4.2,Brancos,76.5,%
+4.4.1.1.4.3,Pretos ou pardos,64.9,%
+4.4.1.1.5,"18 a 24 anos, no ensino superior",,
+4.4.1.1.5.1,Total,25.2,%
+4.4.1.1.5.2,Brancos,36.1,%
+4.4.1.1.5.3,Pretos ou pardos,18.3,%
+4.5,Distribuição de estudantes de 18 a 24 anos de idade,,
+4.5.1, Nível de ensino frequentado,,
+4.5.1.1,Fundamental,,
+4.5.1.1.1,Total,3.3,%
+4.5.1.1.2,Brancos,1.4,%
+4.5.1.1.3,Pretos ou pardos,4.9,%
+4.5.1.2,Médio,,
+4.5.1.2.1,Total,22.7,%
+4.5.1.2.2,Brancos,14.7,%
+4.5.1.2.3,Pretos ou pardos,29.6,%
+4.5.1.3,Superior,,
+4.5.1.3.1,Total,66.3,%
+4.5.1.3.2,Brancos,78.8,%
+4.5.1.3.3,Pretos ou pardos,55.6,%
+4.5.1.4,Outros,,
+4.5.1.4.1,Total,7.7,%
+4.5.1.4.2,Brancos,5.1,%
+4.5.1.4.3,Pretos ou pardos,9.9,%
+4.6,Taxa de ingresso no ensino superior,,
+4.6.1,População com ensino médio completo,,
+4.6.1.1,Total,44.8,%
+4.6.1.2,Brancos,53.2,%
+4.6.1.3,Pretos ou pardos,35.4,%
+4.7,Pessoas de 18 a 29 anos com ensino médio completo,,
+4.7.1,"Que não frequenta escola porque ""trabalha, está procurando trabalho ou conseguiu trabalho que vai começar em breve""",,
+4.7.1.1,Total,32.0,%
+4.7.1.2,Brancos,38.1,%
+4.7.1.3,Pretos ou pardos,61.2,%
+4.8,Taxa de conclusão do ensino médio,,
+4.8.1,Total,67.7,%
+4.8.2,Brancos,76.8,%
+4.8.3,Pretos ou pardos,61.8,%

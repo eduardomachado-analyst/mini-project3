@@ -1,0 +1,292 @@
+Nível;Indicador;2015;2016;2017;2018;Unidade
+1;Geral;;;;;
+1.1;População;;;;;
+1.1.1;Total;;;;207853;pessoas
+1.1.2;Brancos;;;;89663;pessoas
+1.1.3;Pretos ou pardos;;;;115965;pessoas
+1.2;Distribuição da população;;;;;
+1.2.1;Brancos;;;;43.1;%
+1.2.2;Pretos ou pardos;;;;55.8;%
+2;Trabalho;;;;;
+2.1;Taxa de participação;;;;;
+2.1.1;Total;;;;62.0;%
+2.1.2;Brancos;;;;62.8;%
+2.1.3;Pretos ou pardos;;;;61.4;%
+2.2;Nível de ocupação;;;;;
+2.2.1;Total;;;;54.6;%
+2.2.2;Brancos;;;;56.8;%
+2.2.3;Pretos ou pardos;;;;52.7;%
+2.3;Taxa de desocupação;;;;;
+2.3.1;Total;;;;12.0;%
+2.3.2;Brancos;;;;9.5;%
+2.3.3;Pretos ou pardos;;;;14.1;%
+2.4;Taxa composta de subutilização;;;;;
+2.4.1;Total;;;;24.6;%
+2.4.2;Brancos;;;;18.8;%
+2.4.3;Pretos ou pardos;;;;29.0;%
+2.5;Taxa de desocupação;;;;;
+2.5.1;Pessoas de 14 anos ou mais de idade;;;;;
+2.5.1.1;Total;;;;12.0;%
+2.5.1.2;Brancos;;;;9.5;%
+2.5.1.3;Pretos ou pardos;;;;14.1;%
+2.6;Taxa composta de subutilização;;;;;
+2.6.1;Pessoas de 14 anos ou mais de idade;;;;;
+2.6.1.1;Total;;;;24.6;%
+2.6.1.2;Brancos;;;;18.8;%
+2.6.1.3;Pretos ou pardos;;;;29.0;%
+2.7;Pessoas de 14 anos ou mais de idade;;;;;
+2.7.1;Ocupadas na semana de referência;;;;;
+2.7.1.1;Ocupações informais;;;;;
+2.7.1.1.1;Total;;;;41.5;%
+2.7.1.1.2;Brancos;;;;34.6;%
+2.7.1.1.3;Pretos ou pardos;;;;47.3;%
+2.8;Rendimento médio real habitual do trabalho principal;;;;;
+2.8.1;Pessoas de 14 anos ou mais de idade;;;;;
+2.8.1.1;Ocupadas na semana de referência;;;;;
+2.8.1.1.1;Ocupações formais e informais;;;;;
+2.8.1.1.1.1;Total;;;;2163;R$
+2.8.1.1.1.2;Brancos;;;;2796;R$
+2.8.1.1.1.3;Pretos ou pardos;;;;1608;R$
+2.8.1.1.2;Ocupações formais;;;;;
+2.8.1.1.2.1;Total;;;;2708;R$
+2.8.1.1.2.2;Brancos;;;;3282;R$
+2.8.1.1.2.3;Pretos ou pardos;;;;2082;R$
+2.8.1.1.3;Ocupações informais;;;;;
+2.8.1.1.3.1;Total;;;;1345;R$
+2.8.1.1.3.2;Brancos;;;;1814;R$
+2.8.1.1.3.3;Pretos ou pardos;;;;1050;R$
+2.9;Rendimento habitual do trabalho principal;;;;;
+2.9.1;Pessoas de 14 anos ou mais de idade;;;;;
+2.9.1.1;Ocupadas;;;;;
+2.9.1.1.1;Total;;;;2163;R$
+2.9.1.1.2;Brancos;;;;2796;R$
+2.9.1.1.3;Pretos ou pardos;;;;1608;R$
+2.10;Rendimento-hora médio real habitual do trabalho principal;;;;;
+2.10.1;Pessoas de 14 anos ou mais de idade;;;;;
+2.10.1.1;Ocupadas na semana de referência;;;;;
+2.10.1.1.1;Total;;;;13.3;R$
+2.10.1.1.2;Brancos;;;;17.0;R$
+2.10.1.1.3;Pretos ou pardos;;;;10.1;R$
+2.11;Pessoas ocupadas;;;;;
+2.11.1;Brancos;;;;45.2;%
+2.11.2;Pretos ou pardos;;;;53.7;%
+2.12;Participação de pessoas ocupadas;;;;;
+2.12.1;Em cargos gerenciais;;;;;
+2.12.1.1;Brancos;;;;68.6;%
+2.12.1.2;Pretos ou pardos;;;;29.9;%
+3;Renda e Moradia;;;;;
+3.1;Distribuição da população;;;;;
+3.1.1;Classes de percentual de pessoas em ordem crescente de rendimento mensal real domiciliar per capita;;;;;
+3.1.1.1;Entre os 10% com menores rendimentos;;;;;
+3.1.1.1.1;Brancos;;;;23.7;%
+3.1.1.1.2;Pretos ou pardos;;;;75.2;%
+3.1.1.2;Entre os 10% com maiores rendimentos;;;;;
+3.1.1.2.1;Brancos;;;;70.6;%
+3.1.1.2.2;Pretos ou pardos;;;;27.7;%
+3.2;Proporção de pessoas;;;;;
+3.2.1;Classes de rendimento mensal real domiciliar per capita selecionadas;;;;;
+3.2.1.1;Até US$ 1,9 PPC 2011;;;;;
+3.2.1.1.1;Total;;;;6.5;%
+3.2.1.1.2;Brancos;;;;3.6;%
+3.2.1.1.3;Pretos ou pardos;;;;8.8;%
+3.2.1.2;Até US$ 3,2 PPC 2011;;;;;
+3.2.1.2.1;Total;;;;12.4;%
+3.2.1.2.2;Brancos;;;;6.8;%
+3.2.1.2.3;Pretos ou pardos;;;;16.7;%
+3.2.1.3;Até US$ 5,5 PPC 2011 ;;;;;
+3.2.1.3.1;Total;;;;25.3;%
+3.2.1.3.2;Brancos;;;;15.4;%
+3.2.1.3.3;Pretos ou pardos;;;;32.9;%
+3.3;Rendimento mensal efetivo domiciliar per capita médio;;;;;
+3.3.1;Pessoas residentes em arranjos domiciliares;;;;;
+3.3.1.1;Total;;;;1337;R$
+3.3.1.2;Brancos;;;;1846;R$
+3.3.1.3;Pretos ou pardos;;;;934;R$
+3.4;Pessoas residentes em domicílios com ocorrência de inadequações nas condições de moradia;;;;;
+3.4.1;Tipo de inadequação;;;;;
+3.4.1.1;Ausência de coleta direta ou indireta de lixo;;;;;
+3.4.1.1.1;Total;;;;9.7;%
+3.4.1.1.2;Brancos;;;;6.0;%
+3.4.1.1.3;Pretos ou pardos;;;;12.5;%
+3.4.1.2;Ausência de abastecimento de água por rede geral;;;;;
+3.4.1.2.1;Total;;;;15.1;%
+3.4.1.2.2;Brancos;;;;11.5;%
+3.4.1.2.3;Pretos ou pardos;;;;17.9;%
+3.4.1.3;Ausência de esgotamento Sanitário por rede coletora ou pluvial;;;;;
+3.4.1.3.1;Total;;;;35.7;%
+3.4.1.3.2;Brancos;;;;26.5;%
+3.4.1.3.3;Pretos ou pardos;;;;42.8;%
+3.4.1.4;Ao menos uma deficiência;;;;;
+3.4.1.4.1;Total;;;;37.2;%
+3.4.1.4.2;Brancos;;;;27.9;%
+3.4.1.4.3;Pretos ou pardos;;;;44.5;%
+3.5;Pessoas residentes em domicílios com ocorrência de outras inadequações nas condições de moradia;;;;;
+3.5.1;Tipo de inadequação;;;;;
+3.5.1.1;Ônus excessivo com aluguel;;;;;
+3.5.1.1.1;Total;;;;4.8;%
+3.5.1.1.2;Brancos;;;;4.6;%
+3.5.1.1.3;Pretos ou pardos;;;;5.0;%
+3.5.1.2;Adensamento excessivo;;;;;
+3.5.1.2.1;Total;;;;5.6;%
+3.5.1.2.2;Brancos;;;;3.6;%
+3.5.1.2.3;Pretos ou pardos;;;;7.0;%
+3.5.1.3;Não possui máquina de lavar;;;;;
+3.5.1.3.1;Total;;;;34.4;%
+3.5.1.3.2;Brancos;;;;21.0;%
+3.5.1.3.3;Pretos ou pardos;;;;44.8;%
+3.6;Pessoas de 10 anos ou mais de idade;;;;;
+3.6.1;Com posse de telefone celular móvel de uso pessoal;;;;;
+3.6.1.1;Brancos;;;;84.1;%
+3.6.1.2;Pretos ou pardos;;;;75.6;%
+3.6.2;Com acesso à internet;;;;;
+3.6.2.1;Brancos;;;75.5;;%
+3.6.2.2;Pretos ou pardos;;;65.4;;%
+3.7;Pessoas de 15 a 29 anos de idade ;;;;;
+3.7.1;Sem posse de telefone celular móvel pessoal;;;;;
+3.7.1.1;Brancos;;;10.3;;%
+3.7.1.2;Pretos ou pardos;;;19.6;;%
+3.7.2;Acessou internet por algum meio;;;;;
+3.7.2.1;Brancos;;;92.5;;%
+3.7.2.2;Pretos ou pardos;;;84.3;;%
+4;Educação;;;;;
+4.1;Taxa de analfabetismo;;;;;
+4.1.1;Pessoas de 15 anos ou mais de idade;;;;;
+4.1.1.1;Total;;;;6.8;%
+4.1.1.2;Brancos;;;;3.9;%
+4.1.1.3;Pretos ou pardos;;;;9.1;%
+4.2;Nível de ensino;;;;;
+4.2.1;Pessoas de 25 anos ou mais de idade;;;;;
+4.2.1.1;Sem instrução;;;;;
+4.2.1.1.1;Total;;;;6.9;%
+4.2.1.1.2;Brancos;;;;4.3;%
+4.2.1.1.3;Pretos ou pardos;;;;9.1;%
+4.2.1.2;Fundamental incompleto;;;;;
+4.2.1.2.1;Total;;;;33.1;%
+4.2.1.2.2;Brancos;;;;28.4;%
+4.2.1.2.3;Pretos ou pardos;;;;37.2;%
+4.2.1.3;Fundamental completo;;;;;
+4.2.1.3.1;Total;;;;8.1;%
+4.2.1.3.2;Brancos;;;;8.0;%
+4.2.1.3.3;Pretos ou pardos;;;;8.2;%
+4.2.1.4;Médio incompleto;;;;;
+4.2.1.4.1;Total;;;;4.5;%
+4.2.1.4.2;Brancos;;;;3.7;%
+4.2.1.4.3;Pretos ou pardos;;;;5.2;%
+4.2.1.5;Médio completo;;;;;
+4.2.1.5.1;Total;;;;26.9;%
+4.2.1.5.2;Brancos;;;;27.0;%
+4.2.1.5.3;Pretos ou pardos;;;;26.9;%
+4.2.1.6;Superior incompleto;;;;;
+4.2.1.6.1;Total;;;;4.0;%
+4.2.1.6.2;Brancos;;;;4.7;%
+4.2.1.6.3;Pretos ou pardos;;;;3.3;%
+4.2.1.7;Superior completo;;;;;
+4.2.1.7.1;Total;;;;16.5;%
+4.2.1.7.2;Brancos;;;;24.0;%
+4.2.1.7.3;Pretos ou pardos;;;;10.1;%
+4.3;Pessoas de 18 a 24 anos de idade;;;;;
+4.3.1;Com menos de 11 anos de estudo e que não frequentam instituição de ensino;;;;;
+4.3.1.1;Total;;;;24.4;%
+4.3.1.2;Brancos;;;;17.4;%
+4.3.1.3;Pretos ou pardos;;;;28.8;%
+4.4;Taxa de frequência líquida ajustada;;;;;
+4.4.1;População residente de 6 a 24 anos de idade;;;;;
+4.4.1.1;Grupos de idade e nível de ensino;;;;;
+4.4.1.1.1;6 a 14 anos, no ensino fundamental;;;;;
+4.4.1.1.1.1;Total;;;;97.4;%
+4.4.1.1.1.2;Brancos;;;;97.7;%
+4.4.1.1.1.3;Pretos ou pardos;;;;97.2;%
+4.4.1.1.2;6 a 10 anos, nos anos iniciais do ensino fundamental;;;;;
+4.4.1.1.2.1;Total;;;;96.1;%
+4.4.1.1.2.2;Brancos;;;;96.5;%
+4.4.1.1.2.3;Pretos ou pardos;;;;95.8;%
+4.4.1.1.3;11 a 14 anos, nos anos finais do ensino fundamental;;;;;
+4.4.1.1.3.1;Total;;;;86.7;%
+4.4.1.1.3.2;Brancos;;;;90.4;%
+4.4.1.1.3.3;Pretos ou pardos;;;;84.5;%
+4.4.1.1.4;15 a 17 anos, no ensino médio;;;;;
+4.4.1.1.4.1;Total;;;;69.3;%
+4.4.1.1.4.2;Brancos;;;;76.5;%
+4.4.1.1.4.3;Pretos ou pardos;;;;64.9;%
+4.4.1.1.5;18 a 24 anos, no ensino superior;;;;;
+4.4.1.1.5.1;Total;;;;25.2;%
+4.4.1.1.5.2;Brancos;;;;36.1;%
+4.4.1.1.5.3;Pretos ou pardos;;;;18.3;%
+4.5;Distribuição de estudantes de 18 a 24 anos de idade;;;;;
+4.5.1; Nível de ensino frequentado;;;;;
+4.5.1.1;Fundamental;;;;;
+4.5.1.1.1;Total;;;;3.3;%
+4.5.1.1.2;Brancos;;;;1.4;%
+4.5.1.1.3;Pretos ou pardos;;;;4.9;%
+4.5.1.2;Médio;;;;;
+4.5.1.2.1;Total;;;;22.7;%
+4.5.1.2.2;Brancos;;;;14.7;%
+4.5.1.2.3;Pretos ou pardos;;;;29.6;%
+4.5.1.3;Superior;;;;;
+4.5.1.3.1;Total;;;;66.3;%
+4.5.1.3.2;Brancos;;;;78.8;%
+4.5.1.3.3;Pretos ou pardos;;;;55.6;%
+4.5.1.4;Outros;;;;;
+4.5.1.4.1;Total;;;;7.7;%
+4.5.1.4.2;Brancos;;;;5.1;%
+4.5.1.4.3;Pretos ou pardos;;;;9.9;%
+4.6;Taxa de ingresso no ensino superior;;;;;
+4.6.1;População com ensino médio completo;;;;;
+4.6.1.1;Total;;;;44.8;%
+4.6.1.2;Brancos;;;;53.2;%
+4.6.1.3;Pretos ou pardos;;;;35.4;%
+4.7;Pessoas de 18 a 29 anos com ensino médio completo;;;;;
+4.7.1;Que não frequenta escola porque "trabalha, está procurando trabalho ou conseguiu trabalho que vai começar em breve";;;;;
+4.7.1.1;Total;;;;32.0;%
+4.7.1.2;Brancos;;;;38.1;%
+4.7.1.3;Pretos ou pardos;;;;61.2;%
+4.8;Taxa de conclusão do ensino médio;;;;;
+4.8.1;Total;;;;67.7;%
+4.8.2;Brancos;;;;76.8;%
+4.8.3;Pretos ou pardos;;;;61.8;%
+5;Violência;;;;;
+5.1;Escolares frequentando o 9º ano do ensino fundamental;;;;;
+5.1.1;Escolas situadas em área de risco (em termos de violência);;;;;
+5.1.1.1;Total;50.8;;;;%
+5.1.1.2;Brancos;45.7;;;;%
+5.1.1.3;Pretos ou pardos;53.9;;;;%
+5.1.2;Que não compareceram à escola por falta de segurança no trajeto casa-escola ou na escola nos 30 dias anteriores à pesquisa;;;;;
+5.1.2.1;Total;14.8;;;;%
+5.1.2.2;Brancos;13.1;;;;%
+5.1.2.3;Pretos ou pardos;15.4;;;;%
+5.1.3;Que foram agredidos fisicamente por algum adulto da família alguma vez nos 30 dias anteriores à pesquisa;;;;;
+5.1.3.1;Total;14.5;;;;%
+5.1.3.2;Brancos;13.1;;;;%
+5.1.3.3;Pretos ou pardos;15.1;;;;%
+5.1.4;Que estiveram envolvidos em briga na qual alguma pessoa usou arma de fogo nos 30 dias anteriores à pesquisa;;;;;
+5.1.4.1;Total;5.7;;;;%
+5.1.4.2;Brancos;4.9;;;;%
+5.1.4.3;Pretos ou pardos;6.2;;;;%
+5.1.5;Que estiveram envolvidos em briga na qual alguma pessoa usou arma branca nos 30 dias anteriores à pesquisa;;;;;
+5.1.5.1;Total;7.9;;;;%
+5.1.5.2;Brancos;7.0;;;;%
+5.1.5.3;Pretos ou pardos;8.4;;;;%
+5.2;Taxa de homicídios;;;;;
+5.2.1;Total;;;31.7;;Por 100 mil habitantes
+5.2.2;Brancos;;;16.0;;Por 100 mil habitantes
+5.2.3;Pretos ou pardos;;;43.4;;Por 100 mil habitantes
+6;Representação política;;;;;
+6.1;Parlamentares eleitos para a Câmara dos Deputados;;;;;
+6.1.1;Pessoas pretas ou pardas;;;;24.4;%
+6.2;Parlamentares eleitos para as Assembleias Legislativas;;;;;
+6.2.1;Pessoas pretas ou pardas;;;;28.9;%
+6.3;Candidatos para a Câmara dos Deputados;;;;;
+6.3.1;Pessoas pretas ou pardas;;;;41.8;%
+6.4;Candidatos para as Assembleias Legislativas;;;;;
+6.4.1;Pessoas pretas ou pardas;;;;49.6;%
+6.5;Prefeitos eleitos;;;;;
+6.5.1;Pessoas pretas ou pardas;;;;29.0;%
+6.6;Vereadores eleitos;;;;;
+6.6.1;Pessoas pretas ou pardas;;42.1;;;%
+6.7;Candidatos a prefeito;;;;;
+6.7.1;Pessoas pretas ou pardas;;32.8;;;%
+6.8;Candidatos a vereador;;;;;
+6.8.1;Pessoas pretas ou pardas;;48.7;;;%
+
+
+
